@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4090540497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7919261c7f9a01c18e24991d55b826f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee03ac73e8aa1ae9093a8df9cd78fdae
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Fonts/JRfonts.asset
+Dependencies: []

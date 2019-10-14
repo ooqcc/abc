@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2020",
+"productVersion": "0.1",
+"dataUrl": "1ed9efe776dd51039fe1294377cc1d56.unityweb",
+"wasmCodeUrl": "6f4a3a1bb15a6a9bcc2d7b7c91b5c6bc.unityweb",
+"wasmFrameworkUrl": "241a1c492c79b1342d5a399adf09c7e0.unityweb",
+"wasmSymbolsUrl": "9d7b03c42e4ba34506422bdf736c5890.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2020.1.0a8"
+}
